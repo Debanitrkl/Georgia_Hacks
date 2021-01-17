@@ -11,7 +11,7 @@ Deploy deep learning technologies in computer vision to bridge the communication
 **deepASLearning**
 **Phase III:** Developing UI/UX for data collection & implement spatial & temporal layers for ensemble model.
 
-**Phase II:** My vision was to understand and develop deep learning models and how they can be used in Sign Language Recognition (SLR).
+**Phase II:** Our vision is to understand and develop deep learning models and how they can be used in Sign Language Recognition (SLR).
 
 Researched multiple published articles to identify the different characteristics required to implement a strong machine learning model for SLR, addressing feature extraction, spatial, and temporal structure.
 * Sourced MS-ASL’s publicly available videos using pytube API to connect with YouTube and identify over 16k videos and 1000 different classes.
